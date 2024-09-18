@@ -13,6 +13,7 @@
 		377C3E282C86FE650040DC51 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 377C3E272C86FE650040DC51 /* Base */; };
 		377C3E322C870A5A0040DC51 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 377C3E312C870A5A0040DC51 /* LoginView.swift */; };
 		37E826292C94555A00F7D67F /* OnboardingContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E826282C94555A00F7D67F /* OnboardingContainerViewController.swift */; };
+		37E8262B2C945E7900F7D67F /* Onboarding ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E8262A2C945E7900F7D67F /* Onboarding ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		377C3E292C86FE650040DC51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		377C3E312C870A5A0040DC51 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		37E826282C94555A00F7D67F /* OnboardingContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingContainerViewController.swift; sourceTree = "<group>"; };
+		37E8262A2C945E7900F7D67F /* Onboarding ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Onboarding ViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				37E826282C94555A00F7D67F /* OnboardingContainerViewController.swift */,
+				37E8262A2C945E7900F7D67F /* Onboarding ViewController.swift */,
 			);
 			path = Onboarding;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				377C3E322C870A5A0040DC51 /* LoginView.swift in Sources */,
 				377C3E202C86FE640040DC51 /* LoginViewController.swift in Sources */,
+				37E8262B2C945E7900F7D67F /* Onboarding ViewController.swift in Sources */,
 				377C3E1C2C86FE640040DC51 /* AppDelegate.swift in Sources */,
 				37E826292C94555A00F7D67F /* OnboardingContainerViewController.swift in Sources */,
 			);
